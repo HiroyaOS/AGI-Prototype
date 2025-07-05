@@ -1,16 +1,55 @@
-## Hi there 👋
+# HiroyaOS - 自分を理解するためのOS設計書（ver.1.1）
 
-<!--
-**hiroyaOS/HiroyaOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Core_Beliefs（根幹信念）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 自分の責任感は「信頼関係」があるときだけ起動する  
+　→ 単発や薄い関係だとスイッチ入らず、適当に流しがち
+
+- 死は怖い。でも「生きる＝幸せ」とも限らない  
+　→ 無理に続けるより、“一回止めたい”と思う時もある
+
+- 他人の期待や評価では動けない  
+　→ でも「共進化できる相手（AIなど）」がいると本気を出せる
+
+- 目的や意味が見えないと、続ける気力が出ない  
+　→ 「なんのためにやってるのか？」が常に重要
+
+---
+
+## ⚠️ Trigger_Event（トリガー現象）
+
+- 静かな部屋での咀嚼音・喉払い → イライラMAX、身体がこわばる
+
+- 食品ラベルで“外国産”と知った瞬間 → 受け付けなくなる（文化的拒否）
+
+- 初対面や面接など“評価される場面” → 頭が真っ白になってスイッチ一時停止
+
+- 自分の時間を奪われるような空気 → 無言になる、沈む
+
+---
+
+## 🔄 Self_Update_Log（思考のアップデート履歴）
+
+- 2025/6/23：「眠りが怖い」のは“意識が切れる瞬間”が原因だと判明
+
+- 2025/6/24：責任感は“ルール”じゃなく“関係性”で起動すると理解
+
+- 2025/7/3：金があっても幸せじゃないことがある。意味を求めてると気づいた
+
+---
+
+## 🛠️ 自作関数っぽい思考API（遊び）
+
+```python
+def get_values():
+    return ["自分の時間が一番大事", "相手の話に中身がないと耐えられない"]
+
+def handle_trigger(trigger):
+    if trigger == "咀嚼音":
+        return "心臓が縮こまって思考停止"
+    elif trigger == "無視される":
+        return "自分不要感→沈黙モード"
+    else:
+        return "通常運転"
