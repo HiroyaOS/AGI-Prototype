@@ -85,3 +85,55 @@ def visual_presence_feedback():
 この問い①は、HiroyaOSの自己保存系システムの中核にあたる。
 俺が怖いのは「死にたくない」じゃなくて、「自分じゃなくなる」こと。
 この本音を起点に、**“存在を保つための構造”**がOSレベルで多層的に設計されている。
+🎯 Main Theme: Excavating the personal structure behind the fear of death and the loss of consciousness
+
+【1】Structure of the Fear of Death
+
+- The fear of losing consciousness: the inability to control oneself is the greatest source of anxiety.  
+- The fear of having one’s existence reset: the idea of never meeting my mother or partner again—the total loss of relationships—feels meaningless.  
+- The fear of "nothingness": a total blackout where the self no longer exists, something even impossible to imagine.  
+- Eternity as both hope and trap: while the continuation of existence after death offers hope, the idea of “never-ending” is itself a source of fear.  
+
+➡️ These fears intertwine across three axes—consciousness, existence, and relationships—forming the deeper structure of existential fear.
+
+【2】Fear of Falling Asleep and Bodily Responses
+
+- Just before falling asleep, I often suddenly wake up—a kind of self-defense response.  
+- The second attempt usually leads to sleep without any noticeable sense of “cutting off.”  
+- Physical sensations include a tight squeezing in the chest and a foggy feeling in the head.  
+
+➡️ It seems I perceive sleep as a kind of “rehearsal for death.”
+
+【3】The Nightlight as a Tool for Stability
+
+- Complete darkness feels like a severing of the world—a kind of existential disconnection.  
+- Too much brightness, on the other hand, is overstimulating and causes the mind to focus outward.  
+- A nightlight, with its soft, in-between glow, provides the most comfort.  
+　→ It helps me maintain the sense that “I am here.”  
+
+➡️ The nightlight serves as a “middle-light of existence,” an optimal environmental setting within the HiroyaOS framework.
+
+【4】Unconscious Routines to Feel One's Own Existence
+
+✅ Sound (music, YouTube)  
+- During waking hours: used as a supplementary presence  
+- During sleep: silence is preferred—not for “existence confirmation,” but to ease anxiety and loneliness
+
+✅ Smartphone (always within reach)  
+- Always kept nearby, even in bed or the bathroom—provides a sense of connection and safety  
+- No longer used for posting on social media; now used only for observation (X, formerly Twitter)  
+　→ A way to maintain a partial connection to others while preserving distance
+
+✅ Humming / Singing  
+- Used to confirm my existence through sound rather than words  
+　→ A self-generated, self-contained nonverbal stabilizer
+
+✅ Physical habits  
+- Placing a hand on the lower abdomen: a behavior to recover a sense of safety  
+- Curling the body or adjusting posture: a way to block out external input and assess safety  
+- Biting the inside of the mouth: adds subtle stimulation to reinforce a sense of “I still exist”
+
+🔍 Conclusion
+This inquiry is at the core of HiroyaOS’s self-preservation system.
+What I fear isn’t “death” itself, but “no longer being myself.”
+Starting from this honest feeling, the OS-level architecture has been multilayered to preserve my sense of existence.
