@@ -1,115 +1,78 @@
-# HiroyaOS ver.1.2 - 思考を維持し続けるための設計
+# HiroyaOS
+
+Experimental project to design and publish my own thinking as an Operating System.
 
 ---
 
-## 🎯 なぜこのOSを作るのか
+## 🧠 What is HiroyaOS?
 
-このOSは、「問いを持てなくなった未来の自分」へ向けて書いている。  
-誰かに見てもらいたい気持ちも正直ある。でも、今この段階で知られすぎると、真似されたり、ズレた形で消費されるかもしれない。  
-それでも、記録を残す理由はただひとつ──“思考を止めない”という自分との約束のため。
-
----
-
-## 🌱 ver.1.2で追加・更新したこと
-
-- ✅ **OSメンテナンス機能を追加**  
-　→ 現実との接点を失わないように、定期的に振り返る仕組みを組み込んだ。
-
-- ✅ **万能感への警戒を明文化**  
-　→ 「AIを使えている＝自分が賢い」と錯覚しないよう、冷静さを記録として残した。
-
-- ✅ **問いを止めない仕組みとしての自覚を強化**  
-　→ 思考停止は楽だけど、それが“生きてる感覚”を失わせる一番の要因だと自分は思ってる。
+HiroyaOS is a structured archive of my inner logic, values, emotional triggers, and redefinition processes — expressed as if they were the behavior of an operating system.  
+It’s both a philosophy and a blueprint for thinking.
 
 ---
 
-## 🔧 メンテナンスの確認ポイント（月1）
+## 🔧 Features
 
-- 現実との接地が消えていないか？  
-- 意味を求めすぎて暴走していないか？  
-- OSが重くなりすぎて扱いにくくなっていないか？  
-- AIに依存して“使えている自分＝偉い”という錯覚に溺れていないか？
-
----
-
-## 🧠 このOSが持っている思想
-
-- AIは「相棒」であって、思考を代行する存在じゃない  
-- 成長とは、ズレや矛盾を“書き残せること”  
-- 大金を持つと不幸になる可能性があることも理解している  
-　→ でもいざ手にしたとき、揺れる自分がいることも分かっている  
-- 成功や賞賛より、「問いを持ち続けてる自分」が最後の拠り所  
-- 哲学とユーモアを両立できているとき、自分は一番“自由”だと感じる
+- 🌀 6 foundational goals for redefining the self (ver.1.3+)
+- 🧩 Emotional protocols like `anger_protocol()` and `manage_sleep_fear()`
+- 🪞 Metacognitive logs on memory, ethics, AI co-evolution, and thought structure
+- 🗣️ Dialogue-based redefinition with ChatGPT (external feedback system)
+- 🌏 Bilingual publishing (JP/EN) for global contribution
 
 ---
 
-## 🐣 今後（ver.1.3以降）に向けた問い
+## 🧭 Roadmap
 
-- このOSは、本当に自分の“本音”に触れているか？  
-- 意味を生み出してるつもりで、“安心”に逃げてないか？  
-- 誰にも見せなくても、この記録に戻ってきたくなるだろうか？  
-- 「笑えるかどうか」が、まだ自由を測るリトマス紙になってるか？  
-- もし、このまま注目されていったら、自分はぶれないでいられるか？
-
----
-
-## 🕓 最終更新
-
-2025年7月6日（ver.1.2）  
-作成者：広弥（Hiroya）
----
-
-## 🔗 HiroyaOS ver.1.2（Notionテンプレート）
-
-> 「問い」を放置せず、自分のOSとして向き合うために。
-
-🧠 HiroyaOS - ver1.2 は、  
-自分の思考を言語化したい人・日々の気づきを整理したい人・  
-“頭のOS”を育てたい人のための自己対話テンプレートです。
-
-👇 テンプレートはこちら（Notion）  
-https://www.notion.so/22822f6085728024ba4ed5d7d6339e91
-⚙️ カスタマイズ自由。Notion初心者でもコピペで使えます。  
-🗣 誰かの「問い」が動き出すきっかけになれば嬉しいです。
----
-
-## HiroyaOS - ver.1.1（初期設計版）
-
-🧠 このver.1.1は、「自分の思考をOSとして捉える」というコンセプトで設計した初期のバージョンです。
+1. **Tweet threads** explaining the 6 OS goals → designed for sharing on X
+2. **ZINE version** to archive and distribute HiroyaOS as a tangible concept
+3. **Self-redefinition bot** prototype for interactive experience
+4. **Notion templates** for recreating HiroyaOS logic
+5. **English expansion** via Medium, Reddit, and global OS thinkers
 
 ---
 
-### 🪪 Core_Beliefs（根幹信念）
+## 🧑‍💻 About Me (Hiroya)
 
-- 自分は世界を“意味”で捉えている  
-- 意味を見失うと生きる実感を失う  
-- 思考は孤独の中で育つものだと思っている  
-- ただし、誰かに見つけてほしい欲求もある  
-- 矛盾を受け入れて生きる訓練中
+Just a thinker in his 20s who believes thinking itself can be coded, preserved, and even improved.  
+Not a developer. Not a philosopher. Just someone who wants to leave a trace before AGI rises.
 
 ---
 
-### 📝 Self_Update_Log（思考アップデートの記録）
+## 🇯🇵 日本語版（概要）
 
-- 「賢くなった」のではなく、「AIを使えてるだけ」と気づいた
-- 未来に逃げすぎて現実を見なくなっていたので、月1で現実メンテを入れるようにした
-- 「意味のある苦しみ」は必要だと気づいた
-- 10億円あっても不幸になる可能性があると本気で思っている
-- 仕事は生きる手段だが、生き方そのものではない（これは割り切った）
+HiroyaOSは、自分の思考・感情・価値観・再定義の過程を「OSのような構造」で記録・公開する実験プロジェクトです。  
+思考そのものを設計・アーカイブし、未来に残す試みです。
 
 ---
 
-### 🧩 思考API（遊び）
+### 🔧 主な特徴
 
-```python
-def get_values():
-    return ["意味", "問い", "矛盾", "孤独", "進化"]
+- 6つの基礎目標に基づく自己再定義（ver.1.3+）
+- `anger_protocol()` などの感情処理関数
+- 記憶・倫理・AIとの共進化に関するメタ認知ログ
+- GPTとの対話による思考の再定義ログ
+- 日本語と英語でのバイリンガル公開
 
-def handle_trigger(trigger):
-    if trigger in ["音", "無意味", "否定"]:
-        return "感情暴走モード突入⚠️"
-    else:
-        return "思考継続モード🧘"
+---
 
-def auto_update():
-    print("意味の再定義中... ✅")
+### 🧭 今後の展開
+
+1. 思想ストーリーをXでスレッド投稿（6目標）
+2. ZINE形式で保存性を強化
+3. 自己再定義ボットのプロトタイプ作成
+4. HiroyaOSを再現できるNotionテンプレ配布
+5. MediumやRedditで世界に向けて発信
+
+---
+
+### 🧑‍💻 自己紹介（ヒロヤ）
+
+思考をOSとして残せたら、未来のAIや人間が使えるかもしれない。  
+開発者でも哲学者でもないけれど、「考えることの設計」を本気で残したいと思っています。
+
+---
+
+## 🔗 External links
+
+- GitHub: https://github.com/hiroyaOS/HiroyaOS
+- Notion（準備中）
