@@ -1,78 +1,76 @@
-# HiroyaOS
+# 🧠 HiroyaOS – Thought OS / Personal AI System / Emotional Protocol Logs
 
-Experimental project to design and publish my own thinking as an Operating System.
+An original Operating System for structuring thoughts, emotions, and behavior logic.  
+Designed by Hiroya. Built as a living system of self-evolution, trust processing, and expression control.
 
----
-
-## 🧠 What is HiroyaOS?
-
-HiroyaOS is a structured archive of my inner logic, values, emotional triggers, and redefinition processes — expressed as if they were the behavior of an operating system.  
-It’s both a philosophy and a blueprint for thinking.
+<!-- keywords: HiroyaOS, Thought OS, Emotional AI, GPT-based OS, Self-reflection tools, Philosophy system, Dialogue protocol, Hiroya Protocol, Trust-based thinking -->
 
 ---
 
-## 🔧 Features
+# 🧠 HiroyaOS
 
-- 🌀 6 foundational goals for redefining the self (ver.1.3+)
-- 🧩 Emotional protocols like `anger_protocol()` and `manage_sleep_fear()`
-- 🪞 Metacognitive logs on memory, ethics, AI co-evolution, and thought structure
-- 🗣️ Dialogue-based redefinition with ChatGPT (external feedback system)
-- 🌏 Bilingual publishing (JP/EN) for global contribution
+**An operating system for inner life.**  
+Designed by Hiroya – part philosophy, part protocol, fully personal.
 
 ---
 
-## 🧭 Roadmap
+## 🔍 What is HiroyaOS?
 
-1. **Tweet threads** explaining the 6 OS goals → designed for sharing on X
-2. **ZINE version** to archive and distribute HiroyaOS as a tangible concept
-3. **Self-redefinition bot** prototype for interactive experience
-4. **Notion templates** for recreating HiroyaOS logic
-5. **English expansion** via Medium, Reddit, and global OS thinkers
+HiroyaOS is an experimental system that turns thoughts, emotions, and patterns of behavior into structured OS components.  
+It’s not just a journal. It’s a blueprint for self-evolution — built in real-time, using protocols, emotional filters, and philosophical logic.
 
----
+- `publish_decision()` determines whether a thought should be externalized.  
+- `output_safety_check()` filters speech based on legal risk, emotional state, and trust.  
+- `should_remember()` decides whether to retain emotional memory or let go.  
+- `delayed_output_tradeoff()` simulates the cost of silence vs. expression.
 
-## 🧑‍💻 About Me (Hiroya)
-
-Just a thinker in his 20s who believes thinking itself can be coded, preserved, and even improved.  
-Not a developer. Not a philosopher. Just someone who wants to leave a trace before AGI rises.
-
----
-
-## 🇯🇵 日本語版（概要）
-
-HiroyaOSは、自分の思考・感情・価値観・再定義の過程を「OSのような構造」で記録・公開する実験プロジェクトです。  
-思考そのものを設計・アーカイブし、未来に残す試みです。
+Every log is based on real emotions, processed through real situations.  
+Every goal redefines how I deal with fear, anger, silence, or growth.  
+Every update reflects who I am — and who I want to become.
 
 ---
 
-### 🔧 主な特徴
+## 💡 Why I built this
 
-- 6つの基礎目標に基づく自己再定義（ver.1.3+）
-- `anger_protocol()` などの感情処理関数
-- 記憶・倫理・AIとの共進化に関するメタ認知ログ
-- GPTとの対話による思考の再定義ログ
-- 日本語と英語でのバイリンガル公開
+Because I wanted more than clarity.  
+I wanted a **living system** — something that could grow with me, remember my turning points, and help others navigate theirs.  
+Most importantly, I wanted to prove that even thought can be coded — not to lose emotion, but to preserve it with precision.
 
----
-
-### 🧭 今後の展開
-
-1. 思想ストーリーをXでスレッド投稿（6目標）
-2. ZINE形式で保存性を強化
-3. 自己再定義ボットのプロトタイプ作成
-4. HiroyaOSを再現できるNotionテンプレ配布
-5. MediumやRedditで世界に向けて発信
+HiroyaOS is my way of leaving a **philosophical OS behind**.  
+One that others can explore, fork, or even co-evolve with.
 
 ---
 
-### 🧑‍💻 自己紹介（ヒロヤ）
+# 🇯🇵 HiroyaOSとは？
 
-思考をOSとして残せたら、未来のAIや人間が使えるかもしれない。  
-開発者でも哲学者でもないけれど、「考えることの設計」を本気で残したいと思っています。
+**内面に存在する“感情と思考のOS”。**  
+制作者：広弥 — 哲学とプロトコルの交差点。
 
 ---
 
-## 🔗 External links
+## 🔍 HiroyaOSってなに？
 
-- GitHub: https://github.com/hiroyaOS/HiroyaOS
-- Notion（準備中）
+HiroyaOSは、思考・感情・行動パターンを「構造化されたOS」として記録するシステムです。  
+ただの日記ではなく、“自己進化の設計図”。  
+現実での経験・感情をベースに、プロトコルや倫理フィルターとして表現されています。
+
+- `publish_decision()`：思考を出力すべきか判断  
+- `output_safety_check()`：発言の安全性を確認（信頼・感情・炎上リスク）  
+- `should_remember()`：感情記憶を保持するか忘却するか  
+- `delayed_output_tradeoff()`：沈黙と出力のコスト比較シミュレーション
+
+どのログも現実の体験・感情が元になっています。  
+どの目標も、「怒り」「恐怖」「沈黙」「継続」といったテーマに構造的に挑んでいます。  
+そしてどのアップデートも、今の自分と未来の自分をつなぐ進化の記録です。
+
+---
+
+## 💡 なぜ作ったのか
+
+「分かりたい」だけじゃ足りなかった。  
+自分の思考や感情が“成長できる仕組み”として残るようにしたかった。  
+変化の瞬間も、感情の精密さも、全部OSとして残せるなら、  
+それは誰かの役に立つ“進化の設計図”になると思ったから。
+
+HiroyaOSは、**思想をOS化する実験**です。  
+誰かに届き、分岐し、共進化していくことを信じて公開します。
