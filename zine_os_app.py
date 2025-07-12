@@ -13,7 +13,11 @@ def hiroyaOS_response(user_input):
 st.title("🧠 HiroyaGPT: Dialogue Tool for Self-Structure")
 st.caption("by Hiroya – powered by HiroyaOS")
 
-user_input = st.text_input("What’s your current question or thought?")
+user_input = st.text_input("What’s your current question or thought?") user_input = st.text_input("What’s your current question or thought?")
+
+# Note: I’m planning to develop this into a full interactive app,
+# but the technical process is currently a bit difficult.
+# Development timeline is undecided for now.
 
 if user_input:
     response = hiroyaOS_response(user_input)
