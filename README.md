@@ -1,6 +1,4 @@
----
-
-## 🚧 What I'm doing now
+---## 🚧 What I'm doing now
 
 This repository is part of my ongoing attempt to **build an operating system for my inner world** — HiroyaOS.  
 It’s not just documentation. It’s a structured, evolving map of how I think, feel, decide, and redefine myself.
