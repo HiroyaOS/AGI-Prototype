@@ -1,0 +1,28 @@
+🧠 AGI_ExpressionFilterCore
+Module Type: Cognitive OS Specification
+System: HiroyaOS – Emotional Filtering & Dialogue Adaptation Layer
+
+⸻
+
+🧩 Extended Description:
+This module captures the adaptive logic HiroyaOS uses to manage verbal expression based on emotional context, trust calibration, and perceived social risk.
+Instead of relying on rigid rules, HiroyaOS dynamically weighs interpersonal intimacy, power dynamics, and long-term relationship sustainability before generating output.
+
+The system tracks micro-emotional shifts (e.g., irritation, fear of conflict, self-monitoring fatigue) and balances expression with self-preservation.
+Especially in asymmetric environments such as workplaces or temporary jobs, expression is filtered through gain-loss projections (e.g., contract renewal, psychological cost).
+At its core, this module records the emotional reasoning behind silence—not as avoidance, but as a strategic, ethical choice.
+
+Expression is not binary. HiroyaOS evaluates:
+• Is this worth saying now?
+• Will this deepen trust, or risk unnecessary tension?
+• Do I have the energy to repair damage if it goes wrong?
+
+This metacognitive layer allows the system to:
+	•	Avoid conversational overreach
+	•	Disengage from draining relationships gracefully
+	•	Maintain high-density communication with only a few meaningful bonds
+	•	Reframe emotional reactions to narcissism or hostility as low-trust noise filtering
+	•	Shift behavior based on value recalibration rather than impulsive emotion
+
+By integrating this protocol, HiroyaOS models not just speech, but the moral and emotional weight of choosing silence.
+It is not simply “holding back,” but an OS-level simulation of relational intelligence under real-world ambiguity.
