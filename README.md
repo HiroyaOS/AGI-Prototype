@@ -51,8 +51,15 @@ Visit the related repository:
 
 🌍 Website
 
-For research logs, philosophy, and documentation:
-🔗 hiroyaos.com/agi-prototype
+🌐 Website
+For research logs, philosophy, and technical documentation:
+🔗 https://hiroyaos.com/agi-prototype
+
+📣 Contact & Updates
+For questions, feedback, or to follow progress:
+🕊️ X (formerly Twitter): https://x.com/h_osphere
+🧠 Notion Log Archive:
+https://www.notion.so/2782f898f21a4264beae8bad64fc7b3a
 
 ⸻
 
