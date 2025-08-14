@@ -17,9 +17,9 @@ This document outlines the internal protocol by which thoughts are either expres
 Expression becomes possible when multiple internal signals converge into a coherent decision threshold:
 - The thought has undergone sufficient internal clarification via recursive dialogue or cognitive iteration  
 - It has consolidated into a structurally coherent and non-fragmented form  
-- A subjective confirmation threshold is crossed, referred to here as **full cognitive-emotional alignment** — a transferable condition indicating total system agreement across cognitive, affective, and intuitive subsystems  
+- A subjective confirmation threshold is crossed, referred to here as full cognitive-emotional alignment — a transferable condition indicating total system agreement across cognitive, affective, and intuitive subsystems  
 
-**Note:** The Japanese idiom **腑に落ちた (*funi ochita*)**, meaning “it settled in the gut,” is a culturally specific metaphor for this alignment. While culture-bound, the phenomenon is equally observable in other introspective contexts and can be computationally modeled through subsystem coherence metrics.
+**Note:** The Japanese idiom 腑に落ちた (*funi ochita*), meaning “it settled in the gut,” is a culturally specific metaphor for this alignment. While culture-bound, the phenomenon is equally observable in other introspective contexts and can be computationally modeled through subsystem coherence metrics.
 
 ▶ **Trigger condition:** Expression is permitted when emotional-cognitive alignment reaches a system-wide threshold across verification, readiness, and purpose.
 
@@ -27,7 +27,7 @@ Expression becomes possible when multiple internal signals converge into a coher
 
 ## 🚫 When Expression is Blocked
 Expression is withheld when unresolved or contradictory subsystems activate suppression or hesitation logic. These block conditions frequently overlap:
-- Persistent **sustained unresolved cognitive-affective dissonance** (formerly “moyamoya”) — measurable as prolonged affective variance without convergence  
+- Persistent sustained unresolved cognitive-affective dissonance (formerly “moyamoya”) — measurable as prolonged affective variance without convergence  
 - Incomplete internal review or active unresolved feedback loops  
 - Structural fragmentation due to competing logical frames or contradictions  
 - Perfectionism-induced paralysis where no output meets minimum internal standards  
@@ -98,7 +98,7 @@ def block_reasons(context: Dict) -> list:
 
 ---
 
-## **2_Output_Mechanics_and_Question_Structure_part2.md**
+**📄 Part 2 — 2_Output_Mechanics_and_Question_Structure_part2.md**  
 
 This logic tree models internal expression control using quantifiable heuristics, incorporating emotional tolerances, safety constraints, and structure readiness. Parameters are calibrated for auditability and intersubjective verification in both human and AGI systems.
 
