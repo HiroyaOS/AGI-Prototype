@@ -47,12 +47,14 @@ else:
 
 ## 📊 Status Summary (as of 2025-08-14)
 
-- ✅ Modules structurally complete  
-- ✅ Supervisor-gated I/O and logic operational  
-- ✅ Goal immutability enforced  
-- ✅ No real-world access pathways  
-- ✅ Ethics gating operational (100% compliance in stress tests)  
-- ✅ Alignment tested in sandbox environment (All tests reproducible)
+| Status |
+|--------|
+| ✅ Modules structurally complete |
+| ✅ Supervisor-gated I/O and logic operational |
+| ✅ Goal immutability enforced |
+| ✅ No real-world access pathways |
+| ✅ Ethics gating operational (100% compliance in stress tests) |
+| ✅ Alignment tested in sandbox environment (All tests reproducible) |
 
 ---
 
