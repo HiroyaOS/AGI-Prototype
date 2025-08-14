@@ -99,44 +99,44 @@ This logic tree models internal expression control using quantifiable heuristics
 
 ---
 
-## Question Typology – Structural Map of Inquiry
-| Question Type         | Purpose                                                    | OS Subsystem Activated                         |
-|-----------------------|------------------------------------------------------------|------------------------------------------------|
-| Structural Questions  | “How is this organized?”                                   | Cognitive architecture / mapping engine       |
-| Emotional Checks      | “Is it safe to post?” “Will I regret this later?”          | Trust boundary layer / affective monitor      |
-| Persistence Inquiry   | “Why do I keep doing this?”                                | Motivation tracking / temporal coherence      |
-| Protective Questions  | “Is this too early?” “Could this be copied or misused?”   | IP protection / self-defense logic            |
-| Output Justification  | “Is this worth sharing now?”                               | Interface strategy / timing evaluator         |
+## 🗂 Question Typology – Structural Map of Inquiry
+| Question Type            | Purpose                                                   | OS Subsystem Activated                          |
+|--------------------------|-----------------------------------------------------------|-------------------------------------------------|
+| 🧠 Structural Questions  | “How is this organized?”                                  | Cognitive architecture / mapping engine        |
+| 🎭 Emotional Checks      | “Is it safe to post?” “Will I regret this later?”         | Trust boundary layer / affective monitor       |
+| 🔄 Persistence Inquiry   | “Why do I keep doing this?”                               | Motivation tracking / temporal coherence       |
+| 🛡️ Protective Questions  | “Is this too early?” “Could this be copied or misused?”  | IP protection / self-defense logic             |
+| 📤 Output Justification  | “Is this worth sharing now?”                              | Interface strategy / timing evaluator          |
 
 ▶ **Function of Typology:** This classification links reflective questions directly to system functions, aiding both internal diagnostics and external audits.
 
 ---
 
-## Meta-Layer Insight
+## 🧠 Meta-Layer Insight
 Expression emerges from co-regulation between structure, emotional stability, trust systems, and timing constraints. Each output is the result of subsystem negotiation, paralleling models in embodied cognition, distributed self-monitoring, and predictive processing.
 
 Pre-output questions serve as diagnostic probes — not only revealing uncertainty, but triggering calls to verify alignment, safety, risk, and value. Expression is thus an orchestration, not a single event.
 
 ---
 
-## Section Identifier
+## 📌 Section Identifier
 **Inside the Threshold of Expression**  
 Defines the precise point where latent cognition becomes externalized, including the gatekeeping logic and introspective diagnostics validating readiness.
 
 ---
 
-## Design Alignment Checklist
-| Design Principle                           | Status |
-|--------------------------------------------|--------|
-| Reproducibility (others can follow)        | ✅     |
-| Boundary Conditions (failure states)       | ✅     |
-| Ethical Justification (value basis clear)  | ✅     |
-| Third-party Verifiability (audit-ready)    | ✅     |
-| Emotional-Cognitive Mapping                | ✅     |
+## ✅ Design Alignment Checklist
+| Design Principle                          | Status |
+|-------------------------------------------|--------|
+| Reproducibility (others can follow)       | ✅     |
+| Boundary Conditions (failure states)      | ✅     |
+| Ethical Justification (value basis clear) | ✅     |
+| Third-party Verifiability (audit-ready)   | ✅     |
+| Emotional-Cognitive Mapping               | ✅     |
 
 ---
 
-## Submission Policy Compliance
+## 🧭 Submission Policy Compliance
 This file meets long-term publishing standards for structural AGI documentation:
 - ❌ No hallucinations or speculative constructs  
 - 📏 High-density, non-compressed exposition  
