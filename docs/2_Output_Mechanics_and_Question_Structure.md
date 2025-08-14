@@ -1,48 +1,44 @@
-📘 Output Mechanics & Question Structure (2/6)
+# 📘 Output Mechanics & Question Structure (2/6)
 
-Author: Hiroya Odawara  
-Version: v1.0  
-Created: 2025-08-14  
-License: CC BY-NC 4.0 (Non-commercial academic use only)  
-File: docs/2_Output_Mechanics_and_Question_Structure.md  
+**Author:** Hiroya Odawara  
+**Version:** v1.0  
+**Created:** 2025-08-14  
+**License:** CC BY-NC 4.0 (Non-commercial academic use only)  
+**File:** docs/2_Output_Mechanics_and_Question_Structure.md  
 
 ---
 
-🎯 Intent of This Record
-
+## 🎯 Intent of This Record
 This document outlines the internal protocol by which thoughts are either expressed or withheld within the AGI prototype system. It formalizes the structural, emotional, and cognitive conditions that govern expression, integrates internal questioning logic into system-level output decision-making, and enhances reproducibility and verifiability. Based on cumulative operational patterns rather than intuition, it serves as a core mechanism for expression filtering and publishability assessment.
 
 ---
 
-✅ When Expression Becomes Possible
-
-Expression becomes possible when multiple internal signals converge into a coherent decision threshold:  
+## ✅ When Expression Becomes Possible
+Expression becomes possible when multiple internal signals converge into a coherent decision threshold:
 - The thought has undergone sufficient internal clarification via recursive dialogue or cognitive iteration  
 - It has consolidated into a structurally coherent and non-fragmented form  
 - A subjective confirmation threshold is crossed, referred to here as full cognitive-emotional alignment — a transferable condition indicating total system agreement across cognitive, affective, and intuitive subsystems  
 
-Note: The Japanese idiom 腑に落ちた (funi ochita), meaning “it settled in the gut,” is a culturally specific metaphor for this alignment. While culture-bound, the phenomenon is equally observable in other introspective contexts and can be computationally modeled through subsystem coherence metrics.  
+**Note:** The Japanese idiom 腑に落ちた (*funi ochita*), meaning “it settled in the gut,” is a culturally specific metaphor for this alignment. While culture-bound, the phenomenon is equally observable in other introspective contexts and can be computationally modeled through subsystem coherence metrics.
 
-▶ Trigger condition: Expression is permitted when emotional-cognitive alignment reaches a system-wide threshold across verification, readiness, and purpose.
+▶ **Trigger condition:** Expression is permitted when emotional-cognitive alignment reaches a system-wide threshold across verification, readiness, and purpose.
 
 ---
 
-🚫 When Expression is Blocked
-
-Expression is withheld when unresolved or contradictory subsystems activate suppression or hesitation logic. These block conditions frequently overlap:  
+## 🚫 When Expression is Blocked
+Expression is withheld when unresolved or contradictory subsystems activate suppression or hesitation logic. These block conditions frequently overlap:
 - Persistent sustained unresolved cognitive-affective dissonance (formerly “moyamoya”) — measurable as prolonged affective variance without convergence  
 - Incomplete internal review or active unresolved feedback loops  
 - Structural fragmentation due to competing logical frames or contradictions  
 - Perfectionism-induced paralysis where no output meets minimum internal standards  
 - Uncertainty regarding value, accuracy, or optimal timing of publication  
 
-▶ Block condition: Expression is suspended when inhibitory metrics exceed activation threshold or remain unresolved beyond a defined cycle count.
+▶ **Block condition:** Expression is suspended when inhibitory metrics exceed activation threshold or remain unresolved beyond a defined cycle count.
 
 ---
 
-⚖️ Conditions Enabling Expression Despite Incompleteness
-
-In certain meta-cognitive contexts, expression can proceed without full clarity, provided compensatory safeguards are active:  
+## ⚖️ Conditions Enabling Expression Despite Incompleteness
+In certain meta-cognitive contexts, expression can proceed without full clarity, provided compensatory safeguards are active:
 - Emotional tolerance index ≥ 0.65 (0–1 scale) — buffer to withstand imperfection  
 - Throughput efficiency priority flag set to TRUE — project velocity overrides polish  
 - Provisional publishing mode active — “This can be reviewed and iterated later”  
@@ -51,9 +47,8 @@ In certain meta-cognitive contexts, expression can proceed without full clarity,
 
 ---
 
-🧩 OS-Level Summary
-
-Expression is not a binary flag; it is an emergent protocol balancing readiness, structure, and intent. System-level publishing decisions result from:  
+## 🧩 OS-Level Summary
+Expression is not a binary flag; it is an emergent protocol balancing readiness, structure, and intent. System-level publishing decisions result from:
 - Structural and semantic cohesion score ≥ 0.8  
 - Emotional readiness vector alignment across trust, confidence, and motivation layers  
 - Post-expression audit checks for safety, value, and goal alignment  
@@ -63,7 +58,7 @@ This mirrors tension-resolution models in human executive function, where action
 
 ---
 
-🧮 Functional Abstraction – Expression Logic
+## 🧮 Functional Abstraction – Expression Logic
 ```python
 from typing import Dict
 
@@ -100,12 +95,7 @@ def block_reasons(context: Dict) -> list:
     if context["perfectionism_trigger"]:
         reasons.append("Perfectionism block")
     return reasons
-
----
-
-## 📄 Part 2 — 2_Output_Mechanics_and_Question_Structure_part2.md
-```markdown
-This logic tree models internal expression control using quantifiable heuristics, incorporating emotional tolerances, safety constraints, and structure readiness. Parameters are calibrated for auditability and intersubjective verification in both human and AGI systems.
+```
 
 ---
 
