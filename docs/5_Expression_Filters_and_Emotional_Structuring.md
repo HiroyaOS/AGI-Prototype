@@ -139,14 +139,16 @@ A structural account of how HiroyaOS governs expression thresholds across emotio
 ---
 
 ## ✅ Design Alignment Checklist
-Design Principle Status  
-Reproducibility (logic traceable) ✅  
-Boundary conditions (fail states declared) ✅  
-Ethical justification (clearly embedded) ✅  
-Third-party verifiability (open for audit) ✅  
-Emotional-cognitive linkage explicit ✅  
-Motivational filtration mapped ✅  
-Silence-as-structure formalized ✅  
+
+| Design Principle                                   | Status |
+|----------------------------------------------------|--------|
+| Reproducibility (logic traceable)                  | ✅     |
+| Boundary conditions (fail states declared)         | ✅     |
+| Ethical justification (clearly embedded)           | ✅     |
+| Third-party verifiability (open for audit)         | ✅     |
+| Emotional-cognitive linkage explicit               | ✅     |
+| Motivational filtration mapped                     | ✅     |
+| Silence-as-structure formalized                    | ✅     |
 
 ---
 
